@@ -1,27 +1,27 @@
 # articles
 
 Important:
-- [All] Mamba 1
-- [All] Multi-Scale Transformer Language
-- [All] HiPPO
-- [All] How to train your HiPPO
+- [All] [Mamba 1](https://arxiv.org/abs/2312.00752)
+- [All] [Multi-Scale Transformer Language](https://arxiv.org/abs/2005.00581)
+- [All] [HiPPO](https://arxiv.org/abs/2008.07669)
+- [All] [How to train your HiPPO](https://arxiv.org/pdf/2206.12037)
+- [All] [A visual guide to Mamba and SSM](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
+- [All] [Efficiently Modeling Long Sequences with SSMs](https://arxiv.org/pdf/2111.00396) + [video](https://www.youtube.com/watch?v=luCBXCErkCs&t=1271s&ab_channel=StanfordMedAI)
 
 Good to know:
-- [All] A visual guide to Mamba and SSM
-- Annotated S4
-- [All] Conceptual questions S4 / HiPPO
-- Efficiently Modeling Long Sequences with SSMs
-- SSM: Control Theory
-- Attention, SSM and RNN
+- [Annotated S4](https://srush.github.io/annotated-s4/)
+- [Conceptual questions S4 / HiPPO](https://github.com/state-spaces/s4/issues/40)
+- [SSM: Control Theory](https://arxiv.org/pdf/2403.16899)
+- [Attention, SSM and RNN](https://arxiv.org/pdf/2405.15731)
 
 Skip:
-- Mamba 2
-- Shortformer
-- Illusion of SSM
-- HF: Intro to SSM
-- HF: History of SSM
-- Simplifying S4
-- Linear SS Layers
-- PhD
-- Mamba simplified: Part 2
-- Mamba explained
+- [Mamba 2](https://arxiv.org/abs/2405.21060)
+- [Shortformer](https://arxiv.org/abs/2012.15832)
+- [Illusion of SSM](https://arxiv.org/pdf/2404.08819)
+- [HF: Intro to SSM](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
+- [HF: History of SSM](https://huggingface.co/blog/lbourdois/ssm-2022)
+- [Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)
+- [Linear SS Layers](https://arxiv.org/pdf/2110.13985)
+- [PhD](https://stacks.stanford.edu/file/druid:mb976vf9362/gu_dissertation-augmented.pdf)
+- [Mamba simplified: Part 2](https://blog.premai.io/s4-and-mamba/)
+- [Mamba explained](https://thegradient.pub/mamba-explained/)
