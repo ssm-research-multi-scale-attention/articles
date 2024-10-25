@@ -7,6 +7,7 @@ Important:
 - [All] [How to train your HiPPO](https://arxiv.org/pdf/2206.12037)
 - [All] [A visual guide to Mamba and SSM](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
 - [All] [Efficiently Modeling Long Sequences with SSMs](https://arxiv.org/pdf/2111.00396) + [video](https://www.youtube.com/watch?v=luCBXCErkCs&t=1271s&ab_channel=StanfordMedAI) + [Nikita's presentation](https://docs.google.com/presentation/d/1L-1OA5PU0-nWdkC9YllmxjDv_g5UfHd6hRYBj3BXjT4/edit?usp=sharing)
+- [All] [Video about Mamba and S4](https://www.youtube.com/watch?v=8Q_tqwpTpVU&ab_channel=UmarJamil)
 
 Good to know:
 - [Annotated S4](https://srush.github.io/annotated-s4/)
