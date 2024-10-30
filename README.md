@@ -19,6 +19,7 @@ Good to know:
 - [Time-SSM](https://arxiv.org/abs/2405.16312)
 - [Guide to SSM time series](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1470)
 - [Poly-Mamba](https://arxiv.org/pdf/2409.20310)
+- [SSM for time series](https://readmedium.com/understanding-structured-state-space-models-ssms-for-time-series-8b963eb38837)
 
 Skip:
 - [Mamba 2](https://arxiv.org/abs/2405.21060)
