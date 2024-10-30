@@ -22,6 +22,7 @@ SSM for time series:
 - [Guide to SSM time series](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1470)
 - [Poly-Mamba](https://arxiv.org/pdf/2409.20310)
 - [SSM for time series](https://readmedium.com/understanding-structured-state-space-models-ssms-for-time-series-8b963eb38837)
+- [Long Term forecasting](https://arxiv.org/pdf/2403.09898)
 
 Skip:
 - [Mamba 2](https://arxiv.org/abs/2405.21060)
