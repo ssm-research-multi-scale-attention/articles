@@ -16,6 +16,7 @@ Good to know:
 - [Attention, SSM and RNN](https://arxiv.org/pdf/2405.15731)
 - [BABILong](https://arxiv.org/pdf/2406.10149v1)
 - [Time Series with DSSM](https://arxiv.org/pdf/2303.09489)
+- [Time-SSM](https://arxiv.org/abs/2405.16312)
 
 Skip:
 - [Mamba 2](https://arxiv.org/abs/2405.21060)
