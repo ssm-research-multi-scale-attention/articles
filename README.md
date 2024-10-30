@@ -15,6 +15,7 @@ Good to know:
 - [SSM: Control Theory](https://arxiv.org/pdf/2403.16899)
 - [Attention, SSM and RNN](https://arxiv.org/pdf/2405.15731)
 - [BABILong](https://arxiv.org/pdf/2406.10149v1)
+- [Time Series with DSSM](https://arxiv.org/pdf/2303.09489)
 
 Skip:
 - [Mamba 2](https://arxiv.org/abs/2405.21060)
