@@ -15,6 +15,8 @@ Good to know:
 - [SSM: Control Theory](https://arxiv.org/pdf/2403.16899)
 - [Attention, SSM and RNN](https://arxiv.org/pdf/2405.15731)
 - [BABILong](https://arxiv.org/pdf/2406.10149v1)
+
+SSM for time series:
 - [Time Series with DSSM](https://arxiv.org/pdf/2303.09489)
 - [Time-SSM](https://arxiv.org/abs/2405.16312)
 - [Guide to SSM time series](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1470)
