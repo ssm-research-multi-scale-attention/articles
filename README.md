@@ -24,7 +24,7 @@ SSM for time series:
 - [SSM for time series](https://readmedium.com/understanding-structured-state-space-models-ssms-for-time-series-8b963eb38837)
 - [Long Term forecasting](https://arxiv.org/pdf/2403.09898)
 
-Skip:
+Unsorted:
 - [Mamba 2](https://arxiv.org/abs/2405.21060)
 - [Shortformer](https://arxiv.org/abs/2012.15832)
 - [Illusion of SSM](https://arxiv.org/pdf/2404.08819)
